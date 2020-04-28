@@ -31,7 +31,7 @@ This appication helps users to view current and previous news updates and articl
 * css3
 
 ## Code beat 
-![codebeat badge](https://codebeat.co/badges/0d307357-956a-4b2f-9929-afebeb33644c)](https://codebeat.co/projects/github-com-atienodolphine01-newsupdates-master)
+[![codebeat badge](https://codebeat.co/badges/0d307357-956a-4b2f-9929-afebeb33644c)](https://codebeat.co/projects/github-com-atienodolphine01-newsupdates-master)
 
 
 
