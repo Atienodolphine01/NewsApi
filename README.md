@@ -9,7 +9,7 @@ This appication helps users to view current and previous news updates and articl
 ### Behaviour Driven Development
 
 ### Setup Instructions
-1. Clone or Download from github, 
+1. Clone or Download from github, https://atienodolphine01.github.io/NewsUpdates/ 
 2. cd into the projectfolder [News Highlight]
 3. run chmod+x on your project directory to grant permissions.
 4. ./start.sh to execute the program.
